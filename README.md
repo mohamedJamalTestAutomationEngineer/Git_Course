@@ -1,4 +1,4 @@
 # Git_Course
-this is optional description
+this is optional description ( for testing)
 
-# Project course
+# Project course ( for testing)
